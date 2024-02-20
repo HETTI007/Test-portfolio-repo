@@ -1,2 +1,2 @@
 # Test-portfolio-repo
- Personal portfolio for testing purposes in HTML
+ Personal portfolio for testing purposes in HTML & CSS
